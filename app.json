@@ -1,4 +1,7 @@
 {
   "name": "AuraEats",
-  "displayName": "AuraEats"
+  "displayName": "AuraEats",
+  "plugins": [
+    "expo-asset"
+  ]
 }
